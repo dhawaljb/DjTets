@@ -1,0 +1,250 @@
+2019-06-12 19:20:57,521 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:20:57,522 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:20:57,522 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:28:19,464 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:28:19,464 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:28:19,464 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:28:19,472 ERROR [Log]  
+2019-06-12 19:30:20,404 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:30:20,404 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:30:20,404 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:30:20,412 ERROR [Log]  
+2019-06-12 19:31:51,072 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:31:51,072 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:31:51,072 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:31:51,080 ERROR [Log]  
+2019-06-12 19:35:05,144 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:35:05,145 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:35:05,145 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:35:05,152 ERROR [Log]  
+2019-06-12 19:35:51,095 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:35:51,095 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:35:51,096 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:35:51,103 ERROR [Log]  
+2019-06-12 19:37:01,593 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:37:01,593 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:37:01,593 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:37:01,597 ERROR [Log]  
+2019-06-12 19:39:27,036 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:39:27,036 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:39:27,036 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:39:27,036 ERROR [Log]  
+2019-06-12 19:54:09,437 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:54:09,437 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:54:09,437 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:54:09,507 ERROR [Log] Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: VISTA
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WCZ2TF-ODC2-025', ip: '10.42.142.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: driver.version: FirefoxDriver 
+2019-06-12 19:55:13,828 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:55:13,829 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:55:13,829 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:55:13,897 ERROR [Log] Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: VISTA
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WCZ2TF-ODC2-025', ip: '10.42.142.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: driver.version: FirefoxDriver 
+2019-06-12 19:57:55,853 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:57:55,854 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-12 19:57:55,854 INFO  [Log] **************************************************************************************** 
+2019-06-12 19:59:35,998 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.id: jqgh_gvConfirmedGrid_ProjectName (tried for 30 second(s) with 500 milliseconds interval) 
+2019-06-12 19:59:36,714 INFO  [Log]                             -E---N---D-                                             
+2019-06-13 11:53:08,364 INFO  [Log] **************************************************************************************** 
+2019-06-13 11:53:08,364 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport                                         
+2019-06-13 11:53:08,364 INFO  [Log] **************************************************************************************** 
+2019-06-13 11:54:16,440 ERROR [Log] element click intercepted: Element <input type="button" id="ExportToExcel" value="Export To Excel" width="120" class="Searchbutton"> is not clickable at point (63, 521). Other element would receive the click: <div class="bootbox modal fade bootbox-alert in" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;">...</div>
+  (Session info: chrome=75.0.3770.80)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WCZ2TF-ODC2-025', ip: '10.42.142.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.80, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\DHAWAL~1.BHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5952ec6a6be84687d101dd0957cb95b1 
+2019-06-13 11:54:18,145 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 12:54:00,012 INFO  [Log] **************************************************************************************** 
+2019-07-02 12:54:00,044 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2                                         
+2019-07-02 12:54:00,044 INFO  [Log] **************************************************************************************** 
+2019-07-02 12:54:25,566 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 12:55:16,852 INFO  [Log] **************************************************************************************** 
+2019-07-02 12:55:16,852 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2                                         
+2019-07-02 12:55:16,852 INFO  [Log] **************************************************************************************** 
+2019-07-02 12:55:41,808 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:07:39,165 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:07:39,165 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport3_Demo                                         
+2019-07-02 13:07:39,165 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:08:23,432 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-02 13:08:24,492 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:11:24,088 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:11:24,088 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:11:24,088 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:11:55,229 ERROR [Log] chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WCZ2TF-ODC2-025', ip: '10.42.142.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\DHAWAL~1.BHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:58157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a3739d816932d384dc71579f965aa4a
+*** Element info: {Using=xpath, value=//a[@href='#'][contains(.,'Finance')]} 
+2019-07-02 13:12:06,502 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:12:06,502 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:12:06,502 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:12:14,357 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:12:27,857 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:12:27,857 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:12:27,857 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:12:37,525 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:13:05,737 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:13:05,737 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:13:05,737 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:13:53,596 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:13:53,612 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:13:53,612 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:13:54,829 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-02 13:13:55,815 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:14:41,060 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:14:41,060 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:14:41,060 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:14:46,889 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-02 13:14:47,724 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:15:12,746 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:15:12,746 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:15:12,746 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:15:18,599 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-02 13:15:19,319 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:15:56,299 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-02 13:15:56,999 INFO  [Log]                             -E---N---D-                                             
+2019-07-02 13:28:46,748 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:28:46,748 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 13:28:46,748 INFO  [Log] **************************************************************************************** 
+2019-07-02 13:29:02,401 ERROR [Log] chrome not reachable
+  (Session info: chrome=75.0.3770.100)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'WCZ2TF-ODC2-025', ip: '10.42.142.20', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: C:\Users\DHAWAL~1.BHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51067}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 75ae4543620b38657d606f3392d74c8d
+*** Element info: {Using=xpath, value=//a[@href='#'][contains(.,'Finance')]} 
+2019-07-02 14:42:16,205 INFO  [Log] **************************************************************************************** 
+2019-07-02 14:42:16,205 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-02 14:42:16,205 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:08:57,269 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:08:57,269 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:08:57,270 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:08:57,271 ERROR [Log]  
+2019-07-03 18:11:43,682 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:11:43,683 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:11:43,683 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:11:43,684 ERROR [Log]  
+2019-07-03 18:18:09,349 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:18:09,350 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:18:09,350 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:18:09,351 ERROR [Log]  
+2019-07-03 18:20:06,624 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:20:06,624 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:20:06,624 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:20:06,625 ERROR [Log]  
+2019-07-03 18:24:16,718 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:24:16,719 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:24:16,719 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:24:16,720 ERROR [Log]  
+2019-07-03 18:29:20,469 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:29:20,469 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-03 18:29:20,470 INFO  [Log] **************************************************************************************** 
+2019-07-03 18:29:20,560 ERROR [Log] No value present 
+2019-07-04 12:29:53,099 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:29:53,099 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 12:29:53,099 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:29:53,156 ERROR [Log] No value present 
+2019-07-04 12:34:23,390 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:34:23,390 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 12:34:23,390 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:34:23,452 ERROR [Log] No value present 
+2019-07-04 12:35:55,536 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:35:55,536 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 12:35:55,536 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:35:55,594 ERROR [Log] No value present 
+2019-07-04 12:51:54,032 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:51:54,032 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 12:51:54,033 INFO  [Log] **************************************************************************************** 
+2019-07-04 12:51:54,098 ERROR [Log] No value present 
+2019-07-04 13:27:47,023 INFO  [Log] **************************************************************************************** 
+2019-07-04 13:27:47,024 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 13:27:47,024 INFO  [Log] **************************************************************************************** 
+2019-07-04 13:27:47,120 ERROR [Log] No value present 
+2019-07-04 14:23:25,210 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:23:25,210 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:23:25,210 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:23:25,212 ERROR [Log]  
+2019-07-04 14:23:49,162 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:23:49,162 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:23:49,162 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:23:49,164 ERROR [Log]  
+2019-07-04 14:25:50,268 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:25:50,268 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:25:50,268 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:25:50,324 ERROR [Log] No value present 
+2019-07-04 14:26:09,136 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:26:09,137 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:26:09,137 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:26:09,225 ERROR [Log] No value present 
+2019-07-04 14:40:10,639 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:40:10,640 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:40:10,640 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:40:10,725 ERROR [Log] No value present 
+2019-07-04 14:42:05,530 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:42:05,530 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:42:05,531 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:42:05,617 ERROR [Log] No value present 
+2019-07-04 14:44:17,797 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:44:17,798 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:44:17,798 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:44:17,799 ERROR [Log]  
+2019-07-04 14:45:48,196 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:45:48,196 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:45:48,196 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:45:48,287 ERROR [Log] No value present 
+2019-07-04 14:49:52,197 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:49:52,198 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:49:52,198 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:51:12,356 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:51:12,357 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:51:12,357 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:51:17,459 ERROR [Log]  
+2019-07-04 14:53:12,157 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:53:12,158 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 14:53:12,158 INFO  [Log] **************************************************************************************** 
+2019-07-04 14:53:17,261 ERROR [Log]  
+2019-07-04 15:12:32,791 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:12:32,792 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 15:12:32,792 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:13:18,031 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //a[@href='#'][contains(.,'Finance')] (tried for 30 second(s) with 500 milliseconds interval) 
+2019-07-04 15:15:38,827 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:15:38,827 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 15:15:38,827 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:16:02,988 INFO  [Log]                             -E---N---D-                                             
+2019-07-04 15:28:48,234 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:28:48,235 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-04 15:28:48,235 INFO  [Log] **************************************************************************************** 
+2019-07-04 15:29:05,006 INFO  [Log]                             -E---N---D-                                             
+2019-07-05 12:22:45,595 INFO  [Log] **************************************************************************************** 
+2019-07-05 12:22:45,595 INFO  [Log]                   Started Testcase:: TC01DMPSonarRevenueForecastExport2_Demo                                         
+2019-07-05 12:22:45,595 INFO  [Log] **************************************************************************************** 
+2019-07-05 12:23:05,554 INFO  [Log]                             -E---N---D-                                             
+2019-07-05 16:50:01,899 INFO  [Log] **************************************************************************************** 
+2019-07-05 16:50:01,900 INFO  [Log]                   Started Testcase:: DMPDatabseTestCase                                         
+2019-07-05 16:50:01,900 INFO  [Log] **************************************************************************************** 
+2019-07-05 16:50:02,751 INFO  [Log]                             -E---N---D-                                             
+2019-07-05 16:50:02,760 ERROR [Log] Class Utils | Method closeDriver | Exception desc : null 
+2019-07-08 11:33:01,690 INFO  [Log] **************************************************************************************** 
+2019-07-08 11:33:01,691 INFO  [Log]                   Started Testcase:: DMPDatabseTestCase                                         
+2019-07-08 11:33:01,691 INFO  [Log] **************************************************************************************** 
+2019-07-08 11:33:02,629 INFO  [Log]                             -E---N---D-                                             
+2019-07-08 11:33:02,639 ERROR [Log] Class Utils | Method closeDriver | Exception desc : null 
+2019-07-08 11:54:16,364 INFO  [Log] **************************************************************************************** 
+2019-07-08 11:54:16,364 INFO  [Log]                   Started Testcase:: DMPDatabseTestCase                                         
+2019-07-08 11:54:16,364 INFO  [Log] **************************************************************************************** 
+2019-07-08 11:54:17,177 INFO  [Log]                             -E---N---D-                                             
+2019-07-08 11:54:17,186 ERROR [Log] Class Utils | Method closeDriver | Exception desc : null 
+2019-07-08 12:04:27,775 INFO  [Log] **************************************************************************************** 
+2019-07-08 12:04:27,776 INFO  [Log]                   Started Testcase:: DMPDatabseTestCase                                         
+2019-07-08 12:04:27,776 INFO  [Log] **************************************************************************************** 
+2019-07-08 12:04:28,660 INFO  [Log]                             -E---N---D-                                             
+2019-07-08 12:04:28,671 ERROR [Log] Class Utils | Method closeDriver | Exception desc : null 
